@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="blocker.com.newalarmservice"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:name="blocker.com.newalarmservice.utilities.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme.base" >
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.splashActivity.SplashActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.mainDrawerActivity.DrawerActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="blocker.com.newalarmservice.database.DueDetailContentProvider"
+            android:authorities="blocker.com.newalarmservice.database.DueDetailContentProvider"
+            android:exported="true" />
+        <provider
+            android:name="blocker.com.newalarmservice.database.duerepeattable.DueRepeatContentProvider"
+            android:authorities="blocker.com.newalarmservice.database.duerepeattable.DueRepeatContentProvider"
+            android:exported="true" />
+
+        <receiver android:name="blocker.com.newalarmservice.receiver.AlarmReceiver" />
+        <receiver
+            android:name="blocker.com.newalarmservice.receiver.BootCompleteReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="blocker.com.newalarmservice.services.ReminderNotificationService"
+            android:exported="false" />
+
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.addDueActivity.AddDueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.mainDrawerActivity.upcomingFragment.UpcomingMultipleDueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.mainDrawerActivity.overdueFragment.OverdueMultipleDueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.mainDrawerActivity.paidFragment.PaidMultipleItemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.mainDrawerActivity.unpaidFragment.UnPaidMultipleItemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.mainDrawerActivity.reportFragment.CategoryBillActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="blocker.com.newalarmservice.Activity.dueDetailActivity.DueDetailActivity"
+            android:screenOrientation="portrait" />
+
+        <service android:name="blocker.com.newalarmservice.services.OnBootCompleteService" />
+        <!--
+     ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

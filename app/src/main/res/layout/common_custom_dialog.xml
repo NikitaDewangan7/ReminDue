@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlDialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rlDialogText"
+        android:layout_width="330dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="35dp"
+        android:layout_marginTop="35dp"
+        android:background="@color/white">
+        <ImageView
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/successful"
+            android:tint="@color/material_grey_300"
+            android:layout_above="@+id/imgPaid"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/img_bg" />
+
+        <ImageView
+
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/correct"
+            android:id="@+id/img_status" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Due Added Successfully"
+            android:layout_centerHorizontal="true"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/succeesbg"
+            android:layout_centerVertical="true"
+
+            android:id="@+id/tv_message" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/succeesbg"
+            android:textColor="@color/white"
+            android:layout_alignParentBottom="true"
+            android:text="Ok"
+            android:id="@+id/imgPaid" />
+
+    </RelativeLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/new_mark_paid_dialog.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/new_mark_paid_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/draweritem2.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/draweritem2.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/delete_due_dialog.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/delete_due_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/notification_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/due_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/due_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/draweritem.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/draweritem.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/common_custom_dialog.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/common_custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/drawer_activity.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/drawer_activity.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/drawer_header.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/upcoming_dashboard.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/upcoming_dashboard.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/overdue_dashboard.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/overdue_dashboard.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/new_delete.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/new_delete.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/new_due_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/new_due_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/notification_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/new_delete.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/new_delete.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/new_mark_paid_dialog.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/new_mark_paid_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/mark_paid_dialog.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/mark_paid_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/delete_due_dialog.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/delete_due_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/item_detail.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/item_detail.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/pie_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/pie_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/new_upcoming_multipleitem_recycler.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/new_upcoming_multipleitem_recycler.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/dueitem_dialog.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/dueitem_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/drawer_header.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/spinner_category_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/spinner_category_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/dashboard.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/dashboard.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/new_insert_dialog.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/new_insert_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/drawer_activity.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/drawer_activity.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/overdue_dashboard.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/overdue_dashboard.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/unpaid_dashboard.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/unpaid_dashboard.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/new_upcoming_multipleitem_recycler.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/new_upcoming_multipleitem_recycler.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/new_upcoming_multiple_items.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/new_upcoming_multiple_items.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/category_bill_activity.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/category_bill_activity.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/new_insert_dialog.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/new_insert_dialog.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/dueitem_dialog.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/dueitem_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/unpaid_dashboard.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/unpaid_dashboard.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/upcoming_dashboard.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/upcoming_dashboard.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/report.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/report.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/report.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/report.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/dashboard.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/dashboard.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/item_detail.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/item_detail.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/total_payment_dashboard.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/total_payment_dashboard.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/new_upcoming_multiple_items.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/new_upcoming_multiple_items.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/pie_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/pie_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/upcoming_fragment.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/upcoming_fragment.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/mark_paid_dialog.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/mark_paid_dialog.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/draweritem2.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/draweritem2.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/common_custom_dialog.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/common_custom_dialog.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/total_payment_dashboard.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/total_payment_dashboard.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/theme.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/theme.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/new_due_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/new_due_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/add_due.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/add_due.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/category_bill_activity.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/category_bill_activity.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/theme.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/theme.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/add_due.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/add_due.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/due_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/due_item.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/draweritem.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/draweritem.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/home_drawer_item.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/home_drawer_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/spinner_category_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/spinner_category_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/upcoming_fragment.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/src/main/res/layout/upcoming_fragment.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/home_drawer_item.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/src/main/res/layout/home_drawer_item.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/abhishek/Documents/Abhishek Projects/DueReminder-master/DueReminder-master/NewAlarmService/NewAlarmService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    }
+]

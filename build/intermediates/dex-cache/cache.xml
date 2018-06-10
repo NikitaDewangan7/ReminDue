@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_d15a53ecb8ca3c43d0381f73f152ef4606c8ce33.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_cc8231a3b5ea1c583fd9ebf6dc336386cec53be3.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_9127c569dc50c57485f4496e04b37f89e6917c7d.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_0f79ee9389ac4741414bb85459ea86ac913b2374.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_66a7d4789d7435e80d7d6e335728551a09909772.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_de87a6baf63164a7bd3ce8cbdd45246880ec89f5.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_5f08dfce36e58f6c280449a50284e951c7c653f9.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.2/52bb5e2c528180a3d670d5f9daeb2018f1a7c899/MPAndroidChart-v2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="52bb5e2c528180a3d670d5f9daeb2018f1a7c899">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.2.2_71fbb0c773125eee8c9f213c5bd0d04856834c4f.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_6866c1305dbdbb9ab27a91d6e334919456579e74.jar" />
+    </item>
+    <item
+        jar="/Users/praveendewangan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/praveendewangan/Downloads/NewAlarmService 3/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_5324dd11187b60b523baabdc608cd76b998ddfdb.jar" />
+    </item>
+
+</items>
